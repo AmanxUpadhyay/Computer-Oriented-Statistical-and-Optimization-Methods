@@ -1,4 +1,4 @@
-###Course Objective:
+Course Objective:
 
 The objective of this course is to:
 1. expose students to the fundamentals and concepts of statistical and optimization methods, in particular, with reference to
