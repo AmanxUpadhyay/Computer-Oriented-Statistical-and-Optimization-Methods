@@ -1,7 +1,12 @@
 #include <bits/stdc++.h>
 #include <windows.h>
 using namespace std;
-
+/*
+ * Author: Aman Upadhyay
+ * Date: 23/02/2022
+ * Email: amanupadhyay0208@gmail.com
+ * GitHub: https://github.com/AmanxUpadhyay
+*/
 void loadingBar() {
     cout << "Loading...";
     for (int i = 0; i < 5; i++) {
